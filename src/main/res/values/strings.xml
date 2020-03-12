@@ -1,7 +1,7 @@
 <resources>
-    <string name="app_name">FirstApp</string>
-    <string name="hello" translatable="false">Hello</string>
+    <string name="app_name">Hello</string>
+    <string name="hello">Happy Birthday !</string>
     <string name="action_settings" translatable="false">Settings</string>
-    <string name="button">Button</string>
-    <string name="btn2">Login</string>
+    <string name="textview">TextView</string>
+    <string name="from">Your Tom</string>
 </resources>
